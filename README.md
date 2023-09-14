@@ -1,2 +1,2 @@
 # Sublet-WebCrawler
-Python-Web Crawler
+Real Estate Web Crawler written in Python and Scrapy. The ETL process involves multiple steps, extracting Real Estate data from multiple web pages/urls on sublet.com using scrapy and organizing it into a structured format using scrapy items. Additionally, the extracted data is saved in JSON format. 
